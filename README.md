@@ -1,1 +1,1 @@
-## Voice_agent project for prpPAL.AI Assignment Submission
+## Voice_agent project for proPAL.AI Assignment Submission
